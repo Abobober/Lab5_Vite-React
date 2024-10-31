@@ -1,0 +1,14 @@
+[
+    {
+     "id": 1,
+     "title": "Building a Todo App with Vue",
+     "cover": "https://altezzatravel.com/upload/medialibrary/dda/5ah6ezk1cp4rb4qjd50qyb2w467ijue0.webp",
+     "author":"John Doe"
+    },
+    {
+     "id": 2,
+     "title": "Getting started with TypeScript",
+     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGxMKqKzDlZEasfb8srfVLpph7DoSoMlvIg&s",
+     "author":"Claman Joe"
+    }
+   ]
